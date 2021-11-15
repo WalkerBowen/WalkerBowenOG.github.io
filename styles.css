@@ -1,5 +1,5 @@
 body{
-    background:cyan;
+    background:rgb(93, 231, 162);
     font-family: Arial, Helvetica, sans-serif
 }
 
@@ -13,7 +13,7 @@ body{
     width: 22%;
     padding: 20px 10px;
     margin: 10px;
-    background: blanchedalmond;
+    background: rgb(150, 143, 207);
     border-radius: 5px;
 }
 .assignment img{
@@ -26,7 +26,7 @@ body{
 
 }
 h1 {
-    color : darkorchid;
+    color : rgb(197, 99, 236);
     text-align:center;
 }
 h2 {
